@@ -17,4 +17,4 @@ to cite our work:
 ```
 
 ```
-contact: jianningli.me AT gmail.com
+contact: jianningli.me@gmail.com

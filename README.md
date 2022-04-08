@@ -12,8 +12,9 @@ Paper:  [**pdf**](https://autoimplant2021.grand-challenge.org/)
 
 
 
-If you use the codes or materials of the repository/paper in your research, please use the following bibtex entry for reference of our work:
+to cite our work:
 
 ```
 
 ```
+contact: jianningli.me AT gmail.com

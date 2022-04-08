@@ -12,7 +12,7 @@ Paper:  [**pdf**](https://autoimplant2021.grand-challenge.org/)
 
 
 
-If you find our repository useful or use the codes in your research, please use the following bibtex entry for reference of our work:
+If you use the codes or materials of the repository/paper in your research, please use the following bibtex entry for reference of our work:
 
 ```
 

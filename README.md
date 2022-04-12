@@ -1,4 +1,4 @@
- Reconstructing Large and Complex Cranial Defects using an Image-based Statistical Shape Model
+ Back to the Roots: Reconstructing Large and Complex Cranial Defects using an Image-based Statistical Shape Model
 
 
 Manual implant cleaning: [**demonstration video**](https://figshare.com/articles/dataset/Reconstruction_of_Large_and_Complex_Cranial_Defects/19328816/3?file=34326815)
